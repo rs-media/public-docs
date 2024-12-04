@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkbarena=self.webpackChunkkbarena||[]).push([[634],{192:(a,e,r)=>{r.r(e),r.d(e,{default:()=>u});r(6540);var n=r(6347),s=r(4848);function u(){return(0,s.jsx)(n.rd,{to:"/docs/faq"})}}}]);
